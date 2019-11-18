@@ -1,6 +1,6 @@
 # time-tracker
 Java (Maven) application for tracking time on the job
 
-Time tracker
+Time tracker is running
 
-Good Afn!!!
+Good Evening!!!
